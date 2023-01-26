@@ -29,16 +29,16 @@
 
 _Italico_
 
-*Negrito*
+**Negrito**
 
 **_Negrito e italico_**
 
 * lista objeto1
 * lista objeto2
 
-'''
+```
 bash
 print("")
-'''
+```
 
 
